@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ZammyH
-- 👀 I’m interested in Coding and Food Poduction
-- 🌱 I’m currently learning How to code and Animate 
-- 💞️ Looking to collaborate on some coding pojects and Gain experience working as a team
+- 🕺 Hi, I’m @ZammyH
+- 👀 I’m interested in many things, coding being one of them
+- 🌱 I’m currently learning how to code 
+- 🔮 Looking to create code and share them with others!
 
 <!---
 ZammyH/ZammyH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
